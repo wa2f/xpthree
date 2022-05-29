@@ -1,0 +1,63 @@
+.indexhomeflood{
+    background-image: url("../images/tezos-y8wjQZ9XP4A-unsplash.jpg");
+    width: 100%;
+    height: auto;
+    background-attachment: unset;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    margin-top: 50px;
+}
+.empty{
+    height: 40vh;
+    background-color: deeppink;
+
+}
+.wahomeimg{
+    margin-left: 30%;
+    margin-top: 20%;
+    width: 60%;
+    border-top-left-radius: 50%;
+    border-top-right-radius: 50%;
+}
+.hey{
+}
+.cards_section{
+    margin-top: -20vh;
+    display: flex;
+    width: 60%;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+.cards_section card{
+    width: 100%;
+}
+.card{
+    width: 30%;
+    border: 2px solid deeppink;
+    border-radius: 20%;
+}
+.card-body{
+    text-align: center;
+}
+.middleindexcard{
+    margin-left: 5%;
+    margin-right: 5%;
+}
+.card img{
+    width: 100%;
+    height: 50%;
+}
+.learnmorecardbutton{
+    height: auto;
+    width: auto;
+    text-align: center;
+    border: 2px solid deeppink;
+    border-radius: 10%;
+    margin-top: 50px;
+    padding: 10px;
+    color: deeppink;
+}
+.jumbotronindex{
+    background-color: #5a6268;
+}
